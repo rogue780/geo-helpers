@@ -1,15 +1,20 @@
 {
-    "name": "rogue780/helpers",
-    "description": "A collection of helper functions",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "Shawn Haggard",
-            "email": "shawn.haggard@lyteworx.com"
-        }
-    ],
-    "minimum-stability": "dev",
-    "require": {
-        "ext-bcmath" : "*"
+  "name": "rogue780/helpers",
+  "description": "A collection of helper functions",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Shawn Haggard",
+      "email": "shawn.haggard@lyteworx.com"
     }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "ext-bcmath" : "*"
+  },
+  "autoload": {
+    "files": [
+      "src/Rogue780/Support/helpers.php"
+    ]
+  }
 }
