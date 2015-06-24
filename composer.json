@@ -16,5 +16,11 @@
     "files": [
       "src/Rogue780/Support/helpers.php"
     ]
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "master"
+    }
   }
+
 }
