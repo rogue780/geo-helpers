@@ -1,5 +1,5 @@
 {
-  "name": "rogue780/helpers",
+  "name": "rogue780/geo-helpers",
   "description": "A collection of helper functions",
   "license": "MIT",
   "authors": [
@@ -14,7 +14,7 @@
   },
   "autoload": {
     "files": [
-      "src/Rogue780/Support/helpers.php"
+      "src/Rogue780/Geo/helpers.php"
     ]
   },
   "extra": {
