@@ -16,11 +16,5 @@
     "files": [
       "src/Rogue780/Geo/helpers.php"
     ]
-  },
-  "extra": {
-    "branch-alias": {
-      "dev-master": "master-dev"
-    }
   }
-
 }
