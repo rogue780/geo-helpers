@@ -91,7 +91,7 @@ if (!function_exists('miles_to_meters')) {
      * @param  float  $value
      * @return float
      */
-    function miles_to_miles($value, $scale = 6)
+    function miles_to_meters($value, $scale = 6)
     {
         bcscale($scale);
         return (float)bcmul($value,1609.34);
